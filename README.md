@@ -16,7 +16,7 @@ Esta é uma API robusta desenvolvida com **FastAPI** para gestão de empresas e 
 - **Documentação Automática**: Swagger UI interativo disponível em `/docs`.
 
 ## 📦 Como Executar o Projeto
-1. Clone o repositório.
+1. Clonar o repositório..
 2. Crie um ambiente virtual: `python -m venv venv`.
 3. Instale as dependências: `pip install -r requirements.txt`.
 4. Inicie o servidor: `python -m uvicorn app.main:app --reload`.
