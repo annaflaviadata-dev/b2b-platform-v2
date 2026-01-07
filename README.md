@@ -1,3 +1,7 @@
+
+
+<img width="1024" height="1024" alt="Social Preview" src="https://github.com/user-attachments/assets/78eead05-af27-413f-b1b5-c95d197dfefc" />
+
 # B2B Platform API - V2
 
 Esta é uma API robusta desenvolvida com **FastAPI** para gestão de empresas e usuários em um cenário B2B, focada em performance, segurança e organização de dados.
